@@ -13,3 +13,6 @@ http://28624.hosts2.ma-cloud.nl/bewijzenmap/mbohbo/?page_id=42
 Video:
 
 https://youtu.be/VTtmajZsvwQ
+
+Bijdragen Ruben Vuurman:
+Alles wat je in deze Github vind (inclusief de website)
